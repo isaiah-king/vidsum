@@ -16,6 +16,6 @@ pytube==6.4.2
 requests==2.18.4
 six==1.11.0
 sumy==0.7.0
-tqdm==4.11.2
+tqdm==4.66.3
 urllib3==1.22
 youtube-dl==2017.10.1
